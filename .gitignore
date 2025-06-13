@@ -1,0 +1,38 @@
+# Python-specific files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Dataset file (exclude to avoid committing large or sensitive data)
+model/dataset/dataset_sentiment_analisys.csv
+
+# Model artifacts (generated during training)
+model/sentiment_model.pkl
+model/vectorizer.pkl
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System and temporary files
+.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Flask-specific
+instance/
+*.sqlite
+
+# Miscellaneous
+*.env
+*.flaskenv

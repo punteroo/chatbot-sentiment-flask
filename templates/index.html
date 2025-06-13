@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot de Análisis de Sentimientos</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #e9ecef;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            width: 100%;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            font-weight: 700;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-size: 1.1em;
+            color: #34495e;
+            margin-bottom: 8px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 120px;
+            padding: 12px;
+            font-size: 1em;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            resize: vertical;
+            transition: border-color 0.3s;
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: #007bff;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            font-size: 1.1em;
+            font-weight: 500;
+            color: white;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+            transform: translateY(-2px);
+        }
+
+        .result {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 1.2em;
+            font-weight: 500;
+            text-align: center;
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        .positive {
+            background-color: #d4edda;
+            color: #155724;
+        }
+
+        .neutral {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+
+        .negative {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+
+        .review-text {
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            font-size: 1em;
+            color: #495057;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+
+            to {
+                opacity: 1;
+            }
+        }
+
+        @media (max-width: 500px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            textarea {
+                height: 100px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Chatbot de Análisis de Sentimientos</h1>
+        <form method="post" action="/predict" class="form-group">
+            <label for="review">Ingrese su reseña:</label>
+            <textarea name="review" id="review" placeholder="Escriba su reseña aquí..." required></textarea>
+            <button type="submit">Analizar Reseña</button>
+        </form>
+        {% if prediction %}
+        <div class="result {{ sentiment_class }}">{{ prediction }}</div>
+        {% if original_review %}
+        <div class="review-text">
+            <strong>Reseña ingresada:</strong> {{ original_review }}
+        </div>
+        {% endif %}
+        {% endif %}
+    </div>
+</body>
+
+</html>
