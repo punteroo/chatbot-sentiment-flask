@@ -1,0 +1,542 @@
+﻿review;sentimiento
+"¡Qué buena onda la nueva cafetera! ☕️ El café sale riquísimo y es súper rápida. La amo 😍";positivo
+"El servicio de internet es una garcha. Se corta a cada rato, imposible laburar así. 🤬";negativo
+"Compré unas zapatillas online. El talle estaba bien y llegaron en el tiempo que decían. Todo ok.";neutral
+"Fui a comer a un restaurante nuevo. La comida estaba buena, pero la atención medio pelo, tardaron mil años en traer la cuenta.";neutral
+"La verdad que el celu nuevo anda joya, la batería dura un montón y las fotos que saca son una locura 🤯";positivo
+"Una porquería el delivery, tardaron dos horas y la comida llegó fría. No pido nunca más acá 😡";negativo
+"El curso de marketing digital que empecé está bastante piola. Explican bien y el contenido es útil.";positivo
+"Me compré una remera y se achicó toda en el primer lavado. Malísima la calidad, una estafa.";negativo
+"La aplicación del banco se actualizó y ahora es un quilombo encontrar cualquier cosa. Antes era más fácil.";negativo
+"Alquilé una peli por streaming. Se veía bien, sin cortes. Cumplió su función.";neutral
+"¡El recital de anoche fue épico! La rompieron toda, qué sonido y qué puesta en escena. Todavía estoy manija 🤘";positivo
+"Pedí un helado y se equivocaron en dos de los tres gustos. Un bajón.";negativo
+"El nuevo shampoo me dejó el pelo re suavecito y con brillo. Lo súper recomiendo ✨";positivo
+"El colectivo tardó 40 minutos en pasar. Viajé como sardina en lata para colmo.";negativo
+"El paquete que mandé por correo llegó bien. No fue ni rápido ni lento, normal.";neutral
+"La silla gamer que me compré es una masa. Súper cómoda para estar horas viciando. Vale cada centavo.";positivo
+"El soporte técnico de la empresa de cable es un desastre. Te tienen 40 minutos en línea para no solucionarte nada.";negativo
+"Probé la nueva hamburguesa vegana del local de la esquina. Zafa, pero no es la gran cosa.";neutral
+"¡Qué buena que está la serie nueva de Netflix! Me vi 5 capítulos de un tirón, no podía parar.";positivo
+"Me quise comprar entradas para el cine y la página web no andaba. Un embole.";negativo
+"El mouse inalámbrico funciona perfecto. Se conecta al toque y la batería dura bastante.";positivo
+"La aspiradora robot es mi nueva mejor amiga. Me deja el depto impecable sin mover un dedo. ¡Un viaje de ida!";positivo
+"El pantalón que pedí online me queda gigante. Ahora tengo que hacer todo el bardo de cambiarlo.";negativo
+"El hotel donde me quedé el finde estaba bien. Limpio, prolijo, pero el desayuno medio pobre.";neutral
+"La nueva función de la app de música para crear playlists está genial. Muy intuitiva.";positivo
+"Contraté un plomero para arreglar una pérdida y me dejó todo peor que antes. Un chanta.";negativo
+"La crema para la cara que estoy usando no me hace nada. Ni bueno ni malo, es como ponerme agua.";neutral
+"¡El parlante Bluetooth tiene una potencia increíble! Suena fuerte y nítido, ideal para las previas.";positivo
+"La atención en la tienda de ropa fue malísima. La vendedora tenía una cara de culo terrible.";negativo
+"El libro que me recomendaron está bueno, pero es medio denso de leer. Voy lento.";neutral
+"Me instalaron el aire acondicionado y los pibes fueron re prolijos. Dejaron todo limpio. Unos genios.";positivo
+"Hice un pedido al supermercado y me faltaron la mitad de las cosas. Un garrón tener que reclamar.";negativo
+"El protector solar es livianito y no te deja la cara blanca. Bien ahí.";positivo
+"La batería externa que compré carga re lento el celular. No me sirve para una emergencia.";negativo
+"El monitor nuevo se ve espectacular. Los colores son una locura, viciar ahora es otro nivel.";positivo
+"El lavarropas hace un ruido infernal, parece que va a despegar. Me da miedo que se rompa.";negativo
+"El sabor nuevo de gaseosa está ok. No es feo, pero tampoco es algo que volvería a comprar.";neutral
+"¡Qué golazo la promo 2x1 en pizzas! Comimos rico y barato. Así da gusto.";positivo
+"La ferretería del barrio tiene de todo, pero te arrancan la cabeza con los precios. Se abusan.";negativo
+"El mecánico de siempre me solucionó el problema del auto al toque. Un capo, siempre confiable.";positivo
+"Me anoté en el gimnasio y está siempre hasta las manos de gente. Imposible usar las máquinas.";negativo
+"El postre que pedí tenía buena pinta pero de sabor era medio meh.";neutral
+"La mochila que me compré es re espaciosa y las costuras parecen fuertes. Buena compra.";positivo
+"Esperando el bondi media hora bajo la lluvia... el servicio es nefasto.";negativo
+"El delivery de farmacia fue rapidísimo. En 20 minutos tenía el remedio en casa. Impecable.";positivo
+"El colchón nuevo es un sueño, literalmente. Duermo como un bebé. 😴";positivo
+"Intenté cancelar la suscripción al servicio y es imposible, te la complican para que no te vayas. Una trampa.";negativo
+"La película que vimos era larguísima y no pasó nada en toda la peli. Un bodrio.";negativo
+"El teclado mecánico es ruidoso pero es un placer escribir. Me encanta.";positivo
+"El café del bar de la esquina es intomable. Amargo y quemado. Puaj.";negativo
+"La funda del celular es linda y protege bien. Cumple.";neutral
+"Los auriculares con cancelación de ruido son un antes y un después. No escucho a nadie en la ofi. ¡Paz!";positivo
+"Se me quemó la pava eléctrica a los dos meses de comprarla. Calidad de mierda.";negativo
+"El vino que probamos anoche estaba espectacular. Un 10.";positivo
+"La bicicletería me infló las ruedas y me ajustó los frenos sin cargo. Unos grosos.";positivo
+"El nuevo sistema operativo del celu es medio confuso. Me gustaba más el de antes.";neutral
+"Compré un pancho en un puestito y me cayó para el orto. Nunca más.";negativo
+"¡La campera es re abrigada y canchera! Lejos, la mejor compra del invierno.";positivo
+"El verdulero me vendió la mitad de las cosas pasadas. Un ladrón.";negativo
+"El auto nuevo gasta re poca nafta. Un golazo para el bolsillo.";positivo
+"La plataforma de cursos online tiene una interfaz horrible, súper vieja.";negativo
+"El pasaje de avión estaba a buen precio. El vuelo salió y llegó a horario. Todo correcto.";neutral
+"La milanesa del bodegón es gigante y riquísima. Para compartir... o no 😉";positivo
+"La inmobiliaria me está dando mil vueltas para devolverme el depósito. Unos chorros.";negativo
+"El termotanque eléctrico calienta bien el agua. No hay mucho más que decir.";neutral
+"Me cortaron la luz toda la tarde sin previo aviso. Una vergüenza.";negativo
+"¡Qué zarpado el juego nuevo de la Play! Los gráficos son de otro planeta.";positivo
+"La birome que compré pierde tinta. Me manchó toda la cartuchera.";negativo
+"El yogur nuevo tiene un gusto raro. No me convenció.";neutral
+"El seguro del auto me cubrió todo el arreglo sin chistar. Súper recomendables.";positivo
+"La casa de empanadas de acá a la vuelta es lo más. Baratas y llenas de relleno.";positivo
+"El tren vino demorado y hasta las pelotas de gente. Un viaje de mierda.";negativo
+"El tutorial de YouTube me salvó las papas. Explicaba todo paso a paso, clarísimo.";positivo
+"El changuito del supermercado tenía una rueda trabada. Un parto hacer las compras así.";negativo
+"El regalo que compré por internet llegó en una caja toda abollada. Impresentables.";negativo
+"La pizzería tiene una fugazzeta rellena que es una bomba. mortal.";positivo
+"La conexión wifi del aeropuerto era malísima. Imposible mandar un puto mensaje.";negativo
+"El microondas funciona. Calienta la comida y listo.";neutral
+"Los pibes del call center me atendieron re bien y me solucionaron el problema. Un lujo.";positivo
+"Me clavé con unas entradas truchas para un partido. Qué bronca me dio.";negativo
+"La nueva ciclovía está buena, pero es muy angosta. Medio peligroso.";neutral
+"Los borcegos que me compré son facheros y súper cómodos. Los uso para todo.";positivo
+"El control de la tele a veces anda y a veces no. Le tenés que pegar para que reaccione.";negativo
+"El flaco que me atendió en la pinturería la tenía clarísima. Me asesoró de 10.";positivo
+"El talle del buzo era más chico de lo normal. Una paja tener que cambiarlo.";negativo
+"La pastelería vende unas tortas que son una obra de arte y encima riquísimas. 🤤";positivo
+"El trámite online fue un dolor de huevos. La página se colgaba a cada rato.";negativo
+"El jugo de naranja del bar estaba re aguado. Pura agua con colorante.";negativo
+"Los fideos que compré son riquísimos. Se pasaron de buenos.";positivo
+"El ascensor del edificio hace un ruido que parece que se va a caer. Me da un julepe bárbaro.";negativo
+"El mate nuevo cura re rápido y es fachero. Buena compra.";positivo
+"La municipalidad me intimó a pagar una multa que ya había pagado. Son un desastre.";negativo
+"La veterinaria atendió a mi perro de urgencia y con la mejor onda. Unos genios.";positivo
+"La camisa es linda, pero la tela se arruga de la nada.";neutral
+"El servicio de streaming se tilda justo en la mejor parte de la película. Para matarlos.";negativo
+"Qué bueno que abrieron una verdulería orgánica cerca de casa. ¡Todo fresquito!";positivo
+"El banco me cobra comisiones por todo. Son unos usureros.";negativo
+"El celular se cayó al piso y ni se rayó. Aguanta los trapos. 💪";positivo
+"La heladera nueva es enorme y no hace nada de ruido. ¡Un espectáculo!";positivo
+"El chofer del Uber era un maleducado, puso la música al palo y manejaba como un loco.";negativo
+"El jabón en polvo deja la ropa limpia. Es lo que tiene que hacer.";neutral
+"Me regalaron una agenda y es súper práctica, me ayuda a organizarme una banda.";positivo
+"El servicio al cliente me dejó sin palabras. Realmente, no supe qué decir después de la llamada.";neutral
+"Compré una silla ergonómica que prometía 'abrazar mi espalda'. Digamos que es un abrazo... de alguien que no te quiere mucho. Cumple su función, supongo.";neutral
+"Este curso de 'inversiones para principiantes' fue revelador. Aprendí que la mejor inversión era no haberlo comprado. Qué manera de tirar la plata.";negativo
+"La velocidad del nuevo delivery es... de otro mundo. Pedí una pizza y casi que me llegó la masa cruda. Un servicio adelantado a su tiempo. 🤦";negativo
+"No le tenía fe a la marca del taladro, pero me cerró la boca. Lo usé todo el finde para armar unos muebles y se portó como un campeón. Agujereó la pared como si fuera manteca. Lo recomiendo a full, la verdad que me sorprendió para bien.";positivo
+"Análisis detallado del smartwatch modelo T-800: La precisión del GPS es destacable, con una desviación inferior al 2% en recorridos urbanos. La sincronización con iOS es fluida. No obstante, la autonomía de la batería no se corresponde con las 48 horas publicitadas por el fabricante; en uso estándar con notificaciones activas, apenas alcanza las 30 horas. Es un buen producto, pero este punto es un área de mejora crítica.";neutral
+"Fui al nuevo bar 'conceptual'. La experiencia fue... inolvidable. El trago venía en un tubo de ensayo y la comida en una maceta. Interesante, pero creo que prefiero un plato.";neutral
+"La 'oferta' del supermercado era increíble. Llevabas dos y pagabas tres. Unos genios del marketing.";negativo
+"Contraté un servicio de limpieza profunda. Dejaron todo tan limpio que ahora no encuentro la mitad de mis cosas. Un trabajo demasiado bueno, quizás.";negativo
+"Este corrector de ojeras es mágico. No es que las tape, es que te hace aceptar que las vas a tener para siempre. Muy filosófico.";neutral
+"Qué bueno que está este detergente. Saca la grasa al toque y encima tiene un olorcito a limón que te deja la cocina perfumada. Parece una boludez, pero te cambia el humor lavar los platos así. 🍋";positivo
+"El auto nuevo tiene un sistema de 'asistencia al conductor' que es bastante particular. Se la pasa pitando por todo. Si te acercás a una línea, pita. Si un auto pasa lejos, pita. Creo que tiene más ansiedad que yo.";negativo
+"El final de la serie fue... audaz. Sí, audaz es la palabra. Dejaron más preguntas que respuestas. Para charlarlo por horas.";neutral
+"La almohada viscoelástica es tan cómoda que ahora peleo dos batallas cada mañana: una contra el despertador y otra contra la almohada. Y casi siempre gana la almohada.";positivo
+"Informe sobre el proveedor de internet corporativo: Se ha mantenido un 'uptime' del 99.8% durante el último trimestre, lo cual es aceptable según el SLA. Sin embargo, se han detectado picos de latencia en horas de alta demanda que afectan el rendimiento de las aplicaciones en la nube. Se recomienda revisar la infraestructura de enrutamiento para mitigar este inconveniente. El servicio es funcional, pero no óptimo.";neutral
+"Fui a un nutricionista que me dio una dieta 'flexible'. Tan flexible que si la sigo al pie de la letra, termino comiendo una hoja de lechuga por día. Un visionario.";negativo
+"Este vino es peligrosísimo. Empezás con una copita y cuando te querés dar cuenta, te bajaste la botella entera y estás solucionando los problemas del mundo con tus amigos. Un viaje de ida, 10/10.";positivo
+"La app para meditar tiene una voz tan relajante que nunca paso del primer minuto. Me duermo al toque. No sé si medito, pero que descanso, descanso.";positivo
+"El mecánico me dejó el auto 'como nuevo'. Tan nuevo que ahora tiene ruidos que antes no hacía. Siempre innovando.";negativo
+"El guía del tour por la montaña tenía un entusiasmo... particular. Nos hizo correr para 'sentir la energía del lugar'. Volví más cansado que de una semana de laburo.";neutral
+"La película de terror me dio tanto miedo que me reí toda la función. Unos efectos especiales de primer nivel. 🤡";negativo
+"Este celular es a prueba de todo. Se me cayó del segundo piso, rebotó en el pasto y ni un rasguño. Pensé 'cagó fuego', pero no, el tipo sigue andando como si nada. Más duro que rulo de estatua.";positivo
+"El político prometió un 'cambio radical'. Y cumplió: ahora estamos radicalmente peor. Felicitaciones.";negativo
+"El colchón de resortes es... interactivo. Te movés vos y se mueve toda tu familia. Ideal para mantener la comunicación.";neutral
+"La nueva crema anti-edad funciona de maravilla. Llevo tres semanas usándola y ya me siento diez años más viejo esperando los resultados.";negativo
+"Mi experiencia con la aerolínea fue memorable. El asiento era tan espacioso que mis rodillas pudieron conocer en profundidad el respaldo de adelante. Un viaje muy íntimo.";negativo
+"El libro de autoayuda es genial. En el primer capítulo te dice que para ser feliz, tenés que dejar de leer libros de autoayuda. El mejor consejo que me dieron.";positivo
+"El rendimiento del notebook para tareas de ofimática es adecuado. La calidad de construcción es de plástico, pero se siente robusto. El teclado es cómodo para escribir durante periodos prolongados, aunque la retroiluminación es poco uniforme. El principal problema es el 'trackpad', que presenta saltos erráticos del cursor, obligando casi siempre a usar un mouse externo. Es un equipo funcional para su rango de precio, pero con fallos de usabilidad notorios.";negativo
+"El restaurante gourmet ofrece porciones 'minimalistas'. Son tan chicas que te ayudan a apreciar el diseño del plato. Una experiencia estética.";neutral
+"La afeitadora eléctrica deja la piel 'suave como la de un bebé'. Un bebé con barba de tres días, pero bebé al fin.";negativo
+"Fui al dentista para un blanqueamiento. Me quedaron los dientes tan blancos que ahora tengo que usar lentes de sol para mirarme al espejo. ¡Un éxito total!";positivo
+"El servicio técnico vino a arreglar el lavarropas. Ahora no solo no centrifuga, sino que además canta la marcha peronista. Un lavarropas politizado, increíble.";negativo
+"El nuevo edulcorante es tan potente que con una gota endulzás el café de toda la oficina. Hay que usarlo con equipo de protección personal. ☢️";positivo
+"La atención en el local de ropa fue muy 'personalizada'. La vendedora me siguió por toda la tienda a un metro de distancia. Me sentí súper seguro.";neutral
+"Este pre-entreno que compré te da una energía... descomunal. Me tomé una medida y terminé limpiando la casa, paseando al perro del vecino y cuestionando el sentido de la existencia, todo a las 6 AM. Lo volvería a comprar sin dudas.";positivo
+"La garantía del producto es excelente. Cubre cualquier defecto de fábrica, siempre y cuando el producto no se saque de la caja. Muy conveniente.";negativo
+"El concierto fue una experiencia inmersiva. El de adelante era tan alto que pude ver todo el show a través de la pantalla de su celular. Como en casa, pero más caro.";negativo
+"He estado probando la silla de oficina modelo 'ErgoFlex 5000' durante más de 200 horas. El soporte lumbar ajustable es efectivo y el material de malla es transpirable, lo cual se agradece en jornadas extensas. Sin embargo, el mecanismo de reclinación produce un ruido metálico audible que resulta molesto y denota una posible falla de fabricación en la unidad probada. Es un producto con un gran diseño ergonómico, pero empañado por un detalle de construcción inaceptable para su gama de precio.";negativo
+"El nuevo sistema de seguridad para el hogar es muy 'vigilante'. Se activa si mi gato parpadea muy fuerte. Me siento más seguro que el Papa.";positivo
+"La 'comedia' que vimos en el teatro fue tan profunda que la gente lloraba. De la angustia.";negativo
+"El parlante inteligente a veces entiende lo que le pido. Otras veces, pone cumbia cuando le pido Mozart. Es un espíritu libre, le da su toque a la casa.";neutral
+"La batería de este teléfono es eterna. Lo cargué el lunes y hoy es miércoles y todavía le queda 20%. Me voy a olvidar de dónde dejé el cargador. Una bestia.";positivo
+"El curso de cocina online prometía convertirte en un 'chef profesional'. Ahora soy un profesional... quemando comida. Misión cumplida, supongo.";negativo
+"El purificador de aire funciona tan bien que ahora el aire de mi casa es más puro que mis intenciones. Se siente la diferencia.";positivo
+"El seguro del auto tiene una cobertura 'total'. Cubre todo, menos lo que te pasa. Hay que leer la letra chica.";negativo
+"La película era de 'arte y ensayo'. Ensayaron cómo aburrir a la gente durante dos horas y media y les salió perfecto.";negativo
+"Este destornillador eléctrico es una joyita. Tiene la fuerza justa y viene con un montón de puntas. Me salvó el finde que tuve que armar la cuna, el placard y hasta un estante. Si sos medio inútil con las herramientas como yo, esto te cambia la vida.";positivo
+"El software antivirus es un poco... celoso. No me deja abrir ni el bloc de notas porque lo considera 'potencialmente peligroso'. Prefiero la seguridad, pero esto es mucho.";neutral
+"El café descafeinado tiene un sabor tan auténtico que no notas la diferencia. Especialmente porque tampoco notas la cafeína.";neutral
+"El complejo de cabañas era 'rústico'. Tan rústico que una de las paredes era la montaña misma. Mucha conexión con la naturaleza.";neutral
+"la app de pedidos es una pija. se tilda a cada rato y me cobraron dos veces. la puta madre que los parió.";negativo
+"qué bueno que está este fernet, pega como patada de mogólico. ideal para el asado del domingo. un elissirrr.";positivo
+"el chabón del subte me empujó para entrar, casi me hace mierda. qué gente del orto.";negativo
+"fui a la cancha y el paty estaba más seco que la mierda. me lo comí de la bronca nomás.";negativo
+"las zapatillas están zarpadas. son re cómodas y el pibe que me atendió un capo, la mejor onda.";positivo
+"el wifi de la costa es una cagada atómica. no se puede ni mandar un whatsapp, la re concha de la lora.";negativo
+"compré un alfajor de maicena que era pura arenilla. un asco boludo, no compren esa marca.";negativo
+"qué manija estoy con la serie nueva. es un vicio, me vi toda la temporada en una noche. datazo.";positivo
+"el bondi tardó 40 minutos, llegué tardísimo al laburo. una paja, encima viajé como el orto.";negativo
+"el helado de este lugar es una locura. el pibe le pone bocha de dulce de leche, no son ratas. así da gusto.";positivo
+"el jean que me compré online me queda para el culo. ahora tengo que ir a cambiarlo, qué paja atómica.";negativo
+"che, la yerba esta nueva es un golazo. no se lava al toque y tiene un gustito re piola.";positivo
+"el servicio técnico es un chiste. me boludearon una semana para decirme que no tenía arreglo. unos forros.";negativo
+"la birra artesanal que probé anoche estaba buenarda. bien fría como concha de pingüino.";positivo
+"la puta madre, otra vez se cortó la luz. estos de edesur son unos hijos de mil puta.";negativo
+"me clavé alto guiso con este frío. la vieja de la rotisería la tiene atada, cocina como los dioses.";positivo
+"la página para sacar el turno para el registro es una poronga. se cae a cada rato. país inviable.";negativo
+"los auriculares inalámbricos estos son una masa. me los pongo en el bondi y no escucho ni un puto ruido. joya.";positivo
+"el plomero me arrancó la cabeza por cambiarme un cuerito. un chanta de mierda.";negativo
+"qué buena que está la milanesa a la napolitana de este bodegón. es gigante y no te la cobran un ojo de la cara.";positivo
+"el pelotudo del vecino con la música al palo a las 3 de la mañana. dan ganas de cagarlo a trompadas.";negativo
+"la campera es re fachera y abriga un montón. la mejor compra del año, lejos.";positivo
+"qué paja es hacer trámites en este país de mierda, te piden hasta el adn del perro.";negativo
+"el chabón de la verdulería me re cagó con el vuelto. me di cuenta cuando llegué a casa, qué boludo.";negativo
+"la promo de empanadas es un golazo. son zarpadas y baratas, te salvan el almuerzo.";positivo
+"la conexión a internet es más lenta que una tortuga con reuma. una cagada.";negativo
+"el dulce de leche de esta marca es el mejor del mundo, y al que no le guste que me chupe bien la pija.";positivo
+"qué denso el chabón de la remisería, me habló todo el viaje de política. un embole.";neutral
+"el partido fue un robo, la concha de tu madre referí. nos afanaron a dos manos.";negativo
+"la batería del celu nuevo dura una banda. lo uso todo el día y llego a la noche con carga. de pedo.";positivo
+"el control de la play no anda bien, se mueve solo el jugador. una verga, así no se puede jugar.";negativo
+"la previa de anoche se fue a la mierda. el parlante que llevé se la re bancó, sonó toda la noche. alta joda.";positivo
+"el pancho que me comí en el carrito estaba para atrás. el pan viejo y la salchicha fría. me cayó como el culo.";negativo
+"la piba que me atendió en el local tenía menos onda que un renglón. una cara de orto terrible.";negativo
+"este vino en caja zafa para el guiso. para otra cosa ni en pedo, es veneno.";neutral
+"la pastafrola que hace mi vieja es la gloria. con membrillo, como tiene que ser. la puta que vale la pena estar vivo.";positivo
+"el forro del taxista me paseó por toda la ciudad. me salió un huevo el viaje.";negativo
+"el short de fútbol es livianito y cómodo. ideal para jugar el fulbito con los pibes.";positivo
+"la muzzarella de esta pizzería es puro plástico. una mierda, no le pongo más un peso.";negativo
+"el flaco del local de música la tenía re clara. un capo, me ayudó a elegir la viola.";positivo
+"qué cagada la nueva actualización de instagram, es una poronga ahora.";negativo
+"el mate de cerámica este es una masa. re fachero y no se calienta la mano.";positivo
+"la burocracia para habilitar un negocio es para matarse. unos hijos de puta todos.";negativo
+"el choripán de la costanera es un clásico que no falla. el mejor del universo.";positivo
+"el recital se escuchaba como el culo desde donde estaba. una desorganización de mierda.";negativo
+"la reposera es medio pelo, pero por dos mangos no se puede pedir más. para zafar en la playa va.";neutral
+"el alfajor triple es la mejor creación argentina después del diego y la birome.";positivo
+"el aire acondicionado hace un ruido de la concha de la lora, parece un tractor. imposible dormir así.";negativo
+"el fernet con coca es el mejor trago del mundo y no se discute más, manga de putos.";positivo
+"qué poronga el programa de chimentos de la tarde. no puedo creer que la gente mire esa mierda.";negativo
+"el alquiler temporario que señé por internet no existía. llegué a la dirección y era un baldío. me cagaron la guita y las vacaciones.";negativo
+"compré unas entradas para el recital y resultaron ser más truchas que billete de 3 pesos. qué bronca, me quería matar.";negativo
+"el mecánico me dijo que le cambió medio motor al coche y el ruido sigue igual. me afanó mal, un chanta de mierda.";negativo
+"metí guita en una de esas apps que te prometen hacerte rico. perdí hasta la camisa, flor de curro.";negativo
+"la 'oferta' del supermercado era un verso. el precio era el mismo de siempre, te toman por pelotudo.";negativo
+"me llamaron con el cuento del tío, que tenían a un familiar secuestrado. casi caigo, qué hijos de puta.";negativo
+"el producto que compré en la teletienda era una poronga. nada que ver con la publicidad, una estafa total.";negativo
+"el técnico que vino a casa me cobró una fortuna y el aire sigue sin andar. un garca, no lo llamen ni a palos.";negativo
+"me suscribí para una prueba 'gratis' y ahora no hay forma de darme de baja. me la re pusieron, chorros.";negativo
+"vaya tela con el de la inmobiliaria, el piso era un desastre comparado con las fotos. un timo en toda regla, flipante.";negativo
+"el hotel 'cinco estrellas' era una pensión de mala muerte. las cucarachas eran más grandes que mi puño. me cagaron de arriba de un puente.";negativo
+"pagué por un curso online para 'ser mi propio jefe'. puro chamuyo, el único que se llenó de guita fue el forro que lo vendía.";negativo
+"me cago en la hostia, el móvil que compré de segunda mano venía bloqueado. el tío desapareció, no contesta los mensajes.";negativo
+"la 'garantía extendida' es el mayor robo de la historia. nunca te cubre nada, es para sacarte más guita.";negativo
+"el juego que bajé 'gratis' me llenó el ordenador de virus. vaya timo, ahora me va para el culo.";negativo
+"me uní a un 'club de vinos' y me mandan pura mierda en botella. un robo a mano armada lo que te cobran.";negativo
+"el 'influencer' recomendó una porquería que se rompió al segundo día. todo sea por el canje, unos chantas.";negativo
+"me hicieron el cuento de la 'inversión en criptomonedas'. todavía estoy esperando que la plata aparezca. qué gil fui.";negativo
+"la letra chica del contrato era una biblia. terminé pagando el triple de lo que me dijeron. me re cagaron.";negativo
+"joder, pedí un jamón ibérico y me llegó una paleta de supermercado. qué cabrones, menuda estafa.";negativo
+"el 'outlet' de ropa de marca era todo de la salada. se dieron cuenta hasta en la china que era trucho.";negativo
+"pagué por un puesto en una feria de artesanos que fue un fracaso. no pasó un alma, el organizador un ladrón.";negativo
+"me vendieron un tiempo compartido en la costa. una garcha, nunca hay lugar y te matan con las expensas.";negativo
+"el 'plan de ahorro' para el auto es la estafa más grande del país. una mentira, nunca te lo dan.";negativo
+"la app para ligar era puro perfil falso. estuve hablando con un gordo ucraniano que me quería sacar la guita. de no creer.";negativo
+"me cago en todo, la compañía de teléfono me factura servicios que nunca pedí. son unos ladrones con todas las letras.";negativo
+"el 'arreglo de pago' que me ofrecieron tenía más intereses que la mierda. preferible deberles toda la vida.";negativo
+"menudo timo el de la aduana, me cobraron impuestos por un paquete que valía dos duros. unos chorizos.";negativo
+"el seguro de viaje no me cubrió una puta mierda cuando me enfermé. para qué carajo lo pagué.";negativo
+"compré un cachorro de 'raza' que resultó ser un perro de la calle. lo quiero igual al bicho, pero me re cagaron.";negativo
+"el 'tratamiento' para la caída del pelo era agua con colorante. un robo, y encima sigo pelado.";negativo
+"la colecta 'solidaria' del pibe que pedía en la calle era para comprarse el escabio. un actor de primera el hijo de puta.";negativo
+"me cambié de compañía de móvil por una oferta y me están matando con la factura. la peor decisión de mi vida.";negativo
+"el 'nutricionista' de instagram me vendió un plan que era una fotocopia. un chanta que le roba a todo el mundo.";negativo
+"me flipa la gente que vende 'amuletos de la suerte' por internet. el amuleto se lo quedan ellos con tu guita.";negativo
+"el curro de los parquímetros en la ciudad es increíble. ponés la tarjeta y la mitad de las veces no anda y te multan igual.";negativo
+"el servicio de 'optimización' de pc me la dejó más lenta que antes. le deben haber metido un programa para minar cripto, los forros.";negativo
+"qué estafa lo del roaming. usé dos minutos el móvil fuera y me llegó una factura de 50 lucas. chorros.";negativo
+"el tarotista me dijo que iba a tener un golpe de suerte y a la salida me robaron el celular. un visionario el hijo de puta.";negativo
+"hostia puta, la cuenta del restaurante tenía como cinco cosas que no habíamos pedido. si no la revisabas, te la ponían entera.";negativo
+"el 'personal trainer' del gimnasio te vende un plan de entrenamiento que es el mismo para todos. un vago de mierda.";negativo
+"me anoté a un sorteo por un coche y me llaman todos los días para venderme planes de ahorro. qué pesadilla.";negativo
+"la academia de inglés 'con título oficial' era más trucha que judas. el título no servía ni para limpiarse el culo.";negativo
+"el envío 'gratis' te lo terminan cobrando en el precio inflado del producto. no somos boludos.";negativo
+"me vendieron un tour 'exclusivo' y terminamos en un bondi con 50 personas. un desastre.";negativo
+"joder, la supuesta 'lana de alpaca' de la manta pica como su puta madre. debe ser de perro de la calle.";negativo
+"el político prometió que no iba a subir los impuestos y lo primero que hizo fue matarnos a todos. el mismo curro de siempre.";negativo
+"el fondo de inversión 'de bajo riesgo' se fue a la mierda y perdí todos mis ahorros. nunca más confío en un banco.";negativo
+"qué cabrón el tío de la tienda, me dio el cambiazo con el billete. me di cuenta a las tres cuadras. me la hizo bien.";negativo
+"el 'delivery' de la farmacia nunca llegó. me quedé sin el remedio y sin la guita. la concha de su madre.";negativo
+"El producto llegó con defectos de fabricación evidentes. La calidad del material es muy inferior a la publicitada y no cumple con los estándares mínimos.";negativo
+"El servicio de posventa es una absoluta vergüenza. Llevo un mes esperando una respuesta a mi reclamo sin obtener ninguna solución. Son unos incompetentes.";negativo
+"La descripción del artículo en el sitio web es engañosa. Las dimensiones y funcionalidades no corresponden con el producto real. Una decepción total.";negativo
+"Considero que la empresa tiene una política de atención al cliente nefasta. Es imposible comunicarse con un representante y los canales automáticos son inútiles.";negativo
+"La calidad de la comida en el restaurante ha decaído de forma alarmante. Los platos llegaron fríos y la presentación era francamente mala.";negativo
+"Este software es una reverenda mierda. Está plagado de errores que impiden su uso normal y la interfaz es completamente anti-intuitiva. Dinero tirado a la basura.";negativo
+"El servicio de mensajería es deficiente. No cumplieron con la fecha de entrega pactada y el seguimiento del paquete nunca se actualizó.";negativo
+"La incompetencia de su personal técnico es asombrosa. Enviaron a una persona que no tenía la menor idea de cómo solucionar el problema. Un desastre.";negativo
+"El hotel no cumplió con las expectativas. La habitación estaba sucia y el nivel de ruido era inaceptable para un establecimiento de su supuesta categoría.";negativo
+"La gestión administrativa de esta institución es un quilombo. Pierden la documentación y proveen información contradictoria constantemente. Un desorden imperdonable.";negativo
+"El curso no aportó el valor prometido. El contenido era básico y superficial, muy por debajo del nivel anunciado. Me siento completamente estafado.";negativo
+"La durabilidad del producto es una porquería. Dejó de funcionar a la semana de uso, lo que demuestra una calidad de fabricación pésima.";negativo
+"Lamento informar que mi experiencia con su servicio ha sido profundamente insatisfactoria. Los plazos no se respetaron y el resultado final es mediocre.";negativo
+"No puedo creer la falta de profesionalismo de esta gente. Cancelaron mi reserva a último momento sin ofrecer alternativas. Son unos irresponsables de mierda.";negativo
+"El vehículo presenta fallas mecánicas graves que no fueron informadas previo a la compra. Es una situación inaceptable y fraudulenta.";negativo
+"El servicio de internet es una cagada. La conexión es inestable y la velocidad es una fracción de la contratada. No sirve para absolutamente nada.";negativo
+"El evento estuvo muy mal organizado. Hubo largas filas para todo y una clara falta de personal y señalización adecuada.";negativo
+"La política de devoluciones es una estafa. Ponen todas las trabas posibles para que uno no pueda recuperar su dinero por un producto defectuoso.";negativo
+"El manual de instrucciones es incomprensible. Parece una mala traducción automática que no ayuda en absoluto a la instalación del equipo.";negativo
+"Son unos chantas. Prometen resultados que son imposibles de alcanzar y se aprovechan de la necesidad de la gente. Una vergüenza.";negativo
+"El trato recibido por parte del personal fue lamentable. Mostraron una total falta de interés y una actitud displicente ante mis consultas.";negativo
+"La aplicación del banco es una garcha. Se cuelga, está llena de errores y cada actualización la hace peor. Imposible operar con tranquilidad.";negativo
+"La relación precio-calidad de este producto es pésima. Es extremadamente caro para las prestaciones limitadas y la baja calidad que ofrece.";negativo
+"El servicio que ofrecen es del orto. No cumplen con nada de lo que prometen y cuando reclamás, se lavan las manos. Impresentables.";negativo
+"He detectado cobros indebidos en mi factura mensual. Un intento de fraude que, de no ser por mi revisión, hubiera pasado desapercibido.";negativo
+"La empresa demuestra un desprecio absoluto por sus clientes. Es evidente que su único interés es facturar, sin importar la calidad del servicio de mierda que brindan.";negativo
+"El espectáculo fue decepcionante. La calidad del sonido era deficiente y la actuación de los artistas fue poco profesional.";negativo
+"El paquete llegó en un estado deplorable. La caja estaba abierta y el contenido dañado por una clara negligencia en el transporte.";negativo
+"Me parece una falta de respeto la impuntualidad del profesional. Esperé más de una hora después del turno pactado sin recibir siquiera una disculpa.";negativo
+"Son una manga de ladrones. Te cobran hasta el aire que respirás con cargos ocultos que no figuran en ninguna parte del contrato.";negativo
+"El informe presentado carece de rigor técnico y presenta conclusiones infundadas. Un trabajo muy poco profesional.";negativo
+"La plataforma de e-commerce es una poronga. Es lenta, difícil de navegar y el proceso de pago falla constantemente. Una experiencia de usuario horrible.";negativo
+"La aerolínea sobrevendió el vuelo y me denegaron el embarque sin compensación adecuada. Un manejo abusivo y lamentable de la situación.";negativo
+"La cobertura de la garantía es una mentira. Se amparan en cláusulas absurdas para no hacerse cargo de las fallas del producto. Unos estafadores.";negativo
+"La calidad de la conferencia fue muy baja. Los expositores no estaban bien preparados y los temas fueron tratados con una superficialidad decepcionante.";negativo
+"El soporte técnico por chat es atendido por un bot inútil que no soluciona absolutamente nada. Es una experiencia frustrante y una pérdida de tiempo.";negativo
+"El taller mecánico me devolvió el auto con más problemas de los que tenía. Unos ineptos que no deberían tener permiso para operar.";negativo
+"El sistema de reservas online no funciona correctamente, generando duplicidad de citas y un caos administrativo considerable. Es deficiente.";negativo
+"La prepaga me niega la cobertura de un estudio necesario sin justificación médica válida. Un servicio de salud nefasto que juega con la gente.";negativo
+"La instalación del servicio fue un desastre. Los técnicos dejaron todo sucio y el equipo mal conectado. Una falta de prolijidad inaceptable.";negativo
+"La publicidad de este producto es completamente fraudulenta. Las promesas de rendimiento son una exageración burda y alejada de la realidad.";negativo
+"El servicio de catering fue un bochorno. La comida era escasa y de pésima calidad, una vergüenza para cualquier tipo de evento.";negativo
+"Esta compañía de seguros es una mierda. A la hora de pagar, desaparecen y ponen mil excusas para no cumplir con sus obligaciones.";negativo
+"El libro está muy mal editado, con errores de tipeo y gramaticales en casi todas las páginas. Se nota que no hubo un trabajo de corrección serio.";negativo
+"La señal de telefonía móvil en esta zona es inexistente. Venden un servicio que saben perfectamente que no pueden proveer. Son unos garcas.";negativo
+"El electrodoméstico consumía mucha más energía de la especificada en su etiqueta de eficiencia. Una clara violación a los derechos del consumidor.";negotivo
+"La respuesta que recibí del área de reclamos fue un insulto a la inteligencia. Un texto genérico que no abordaba ninguno de mis planteos.";negativo
+"El gerente de la sucursal demostró una soberbia y una falta de capacidad resolutiva alarmantes. Un inútil en un puesto clave.";negativo
+"El producto es de un solo uso, literalmente. Se rompió de forma irreparable la primera vez que intenté utilizarlo. Basura industrial.";negativo
+"El barrio privado vende una seguridad que es una mentira. Entran a robar todas las semanas y la administración no hace absolutamente nada.";negativo
+"El producto es exactamente como se describe en la publicación. El color y las dimensiones coinciden con lo especificado.";neutral
+"La entrega se realizó en el plazo estipulado por la empresa. El paquete llegó en condiciones adecuadas.";neutral
+"El servicio cumple su función básica. No presenta características destacables, pero tampoco inconvenientes significativos.";neutral
+"El proceso de instalación del software siguió los pasos indicados en el manual. No requirió asistencia técnica.";neutral
+"La comida del restaurante tiene un sabor estándar. La porción es de un tamaño promedio y el precio es acorde.";neutral
+"El funcionamiento del electrodoméstico es el esperado. Se enciende, cumple su ciclo y se apaga correctamente.";neutral
+"La comunicación con la empresa fue puramente transaccional. Recibí las notificaciones automáticas de compra y envío.";neutral
+"La ubicación del local es accesible. Se encuentra sobre una avenida principal con acceso a transporte público.";neutral
+"El tejido de la prenda es el que se mencionaba en la etiqueta. La confección es estándar.";neutral
+"El vehículo consume la cantidad de combustible que indica el fabricante en su ficha técnica para uso mixto.";neutral
+"La interfaz de la aplicación es funcional. Los menús están donde uno esperaría encontrarlos.";neutral
+"La duración de la batería del dispositivo se corresponde con un día de uso moderado, como se indica en las especificaciones.";neutral
+"El hotel estaba limpio. La habitación era de un tamaño estándar y contaba con los servicios básicos anunciados.";neutral
+"El libro llegó sellado y sin daños en la cubierta. Corresponde a la edición que fue solicitada.";neutral
+"El proceso para dar de alta el servicio fue el que me indicaron por teléfono, siguiendo una serie de pasos definidos.";neutral
+"El sabor del producto no es ni agradable ni desagradable. Es simplemente neutro.";neutral
+"La película tiene una trama predecible y actuaciones correctas. Es un producto de entretenimiento genérico.";neutral
+"El precio del artículo se encuentra en el promedio del mercado para productos de similares características.";neutral
+"El informe solicitado fue entregado en la fecha pactada y contiene la información que fue requerida.";neutral
+"La herramienta cumple con su propósito. No es de la más alta calidad, pero es adecuada para tareas domésticas ocasionales.";neutral
+"La atención en el mostrador fue rápida y eficiente, sin interacción más allá de lo estrictamente necesario.";neutral
+"El recambio del producto se realizó siguiendo el protocolo de la empresa. Entregué el artículo defectuoso y recibí uno nuevo.";neutral
+"El curso presenta un temario que cubre los aspectos fundamentales de la materia, sin profundizar en exceso.";neutral
+"El mueble requiere ensamblaje, como se indica en la caja. Todas las piezas y tornillos estaban incluidos.";neutral
+"El peso y las dimensiones del paquete se correspondían con la descripción provista por el vendedor.";neutral
+"El documento legal estaba redactado en los términos habituales para este tipo de contrato.";neutral
+"La llamada al centro de atención fue atendida por un sistema automático que guió el proceso de consulta.";neutral
+"La calidad de la imagen de la pantalla es aceptable para un dispositivo de esta gama. Los colores son correctos.";neutral
+"El pago fue procesado sin inconvenientes a través de la plataforma online.";neutral
+"El viaje en autobús transcurrió según el itinerario previsto, con las paradas programadas.";neutral
+"El corte de pelo fue el que solicité, siguiendo las indicaciones que le di al profesional.";neutral
+"La consulta médica fue breve y se centró en los síntomas descritos. Se emitió una receta para un medicamento genérico.";neutral
+"El producto viene en un empaque simple, sin accesorios adicionales más que el cable de carga.";neutral
+"La sucursal bancaria tenía una cantidad moderada de gente. La espera fue de aproximadamente 15 minutos.";neutral
+"El material del curso está disponible para descarga en formato PDF, como se prometió.";neutral
+"La gama de colores disponible para el producto es limitada, pero incluye las opciones básicas.";neutral
+"El evento comenzó a la hora programada. La duración total fue de aproximadamente dos horas.";neutral
+"El trámite requirió presentar la documentación especificada en el sitio web del organismo.";neutral
+"El ascensor del edificio es funcional, aunque no es de los más modernos.";neutral
+"La obra social autorizó la práctica médica después de presentar la orden del profesional.";neutral
+"El agua mineral tiene un sabor neutro, sin aditivos. Es simplemente agua.";neutral
+"El supermercado estaba abastecido con los productos de la canasta básica. No había ofertas especiales.";neutral
+"La señal de la televisión por cable es estable. La grilla de canales es la que figura en el plan contratado.";neutral
+"El abono mensual del servicio se debitó automáticamente de mi cuenta, como todos los meses.";neutral
+"El manual del usuario contiene la información básica de operación en varios idiomas.";neutral
+"La textura de la crema es ni muy grasa ni muy ligera. Se absorbe en un tiempo prudencial.";neutral
+"El estacionamiento del centro comercial es amplio, pero no cuenta con techo en todas sus plazas.";neutral
+"La reunión de consorcio trató los temas previstos en el orden del día y finalizó a la hora estipulada.";neutral
+"El sistema operativo del equipo es una versión estándar, sin personalizaciones por parte del fabricante.";neutral
+"El resultado del análisis clínico se encontraba dentro de los valores de referencia estándar.";neutral
+"Excelente producto. ¡Muy recomendable para todos!";positivo
+"Pésimo servicio. No volvería a comprar aquí nunca más.";negativo
+"El pedido llegó en la fecha que me indicaron.";neutral
+"Me encantó la calidad. Superó todas mis expectativas.";positivo
+"Una verdadera estafa. El producto no funciona para nada.";negativo
+"Es lo que esperaba, ni más ni menos. Cumple.";neutral
+"¡Fantástico! La mejor compra que he hecho este año.";positivo
+"Muy mala experiencia, la atención fue realmente horrible.";negativo
+"Funciona correctamente. El manual es claro y muy simple.";neutral
+"Servicio rápido y eficiente. Totalmente satisfecha con la compra.";positivo
+"Se rompió al segundo día de uso. Malísima calidad.";negativo
+"El color es un poco distinto al de la foto.";neutral
+"¡Una maravilla! Lo volvería a comprar mil veces más.";positivo
+"No lo recomiendo para nada. Una pérdida de dinero.";negativo
+"El paquete vino bien cerrado. Todo en orden.";neutral
+"Atención de primera. Resolvieron todas mis dudas al instante.";positivo
+"Un desastre. El paquete llegó tarde y todo roto.";negativo
+"El precio del producto es acorde a sus funciones.";neutral
+"Calidad increíble. Los materiales son muy buenos y resistentes.";positivo
+"Publicidad engañosa. No es para nada como lo anuncian.";negativo
+"La batería dura lo que dice el empaque.";neutral
+"Me solucionaron el problema muy rápido. Unos genios.";positivo
+"Pura basura. Dejó de funcionar a la primera semana.";negativo
+"El tamaño es el correcto. Coincide con la tabla.";neutral
+"Estoy fascinado con este producto. ¡Es espectacular!";positivo
+"No tiren su dinero. Es un producto realmente inútil.";negativo
+"El sabor es normal, como el de otras marcas.";neutral
+"El envío fue gratis y llegó muy rápido. Excelente.";positivo
+"Me siento estafado. El servicio fue pésimo y caro.";negativo
+"La instalación fue sencilla, siguiendo los pasos del manual.";neutral
+"Muy buena relación precio-calidad. Lo volvería a elegir.";positivo
+"El material es de muy baja calidad. No durará.";negativo
+"El artículo es idéntico a la descripción de la web.";neutral
+"¡Qué buena compra! Funciona perfecto y es muy lindo.";positivo
+"Una decepción. Esperaba mucho más por lo que pagué.";negativo
+"El repartidor fue amable y entregó el paquete.";neutral
+"Superó lo que esperaba. Un producto realmente de primera.";positivo
+"No cumple con su función. Es un adorno caro.";negativo
+"El local estaba limpio y ordenado como siempre.";neutral
+"Servicio impecable. Muy atentos y súper profesionales.";positivo
+"Una experiencia para el olvido. No se lo recomiendo.";negativo
+"El producto es funcional. Hace lo que tiene que hacer.";neutral
+"Me gusta mucho. Es práctico, útil y muy económico.";positivo
+"Vino con fallas de fábrica. Tuve que devolverlo.";negativo
+"El turno fue a la hora pactada. Sin demoras.";neutral
+"Una joya. La mejor inversión que pude haber hecho.";positivo
+"Un robo. El precio es altísimo para lo que es.";negativo
+"El trámite se realizó sin ningún tipo de inconveniente.";neutral
+"El diseño es hermoso y muy original. Me encanta.";positivo
+"No funciona bien. Se tilda a cada rato.";negativo
+"El resultado es aceptable. Ni bueno ni malo.";neutral
+"La atención fue excelente, muy personalizada y muy cordial.";positivo
+"Una vergüenza. Me trataron muy mal y no solucionaron nada.";negativo
+"El producto cumple con las especificaciones técnicas.";neutral
+"¡Lo amo! Es mucho mejor de lo que imaginaba.";positivo
+"La comida llegó fría y el pedido estaba incompleto.";negativo
+"La aplicación es básica pero cumple su función principal.";neutral
+"Rápido, bueno y barato. ¿Qué más se puede pedir?";positivo
+"Una completa pérdida de tiempo y también de dinero.";negativo
+"El proceso de pago fue estándar, sin ningún problema.";neutral
+"Muy buen producto, lo recomiendo sin dudarlo un segundo.";positivo
+"El peor servicio que contraté en mi vida. Desastroso.";negativo
+"La caja contenía todos los accesorios que se indicaban.";neutral
+"Feliz con mi compra. Valió la pena cada centavo.";positivo
+"No lo compren. Es de mala calidad y muy caro.";negativo
+"El sabor es el esperado para este tipo de producto.";neutral
+"Una atención espectacular. Me ayudaron en todo momento.";positivo
+"Me arrepiento de haber comprado esto. Es malísimo.";negativo
+"La película es entretenida, para pasar el rato.";neutral
+"Funciona de maravilla. Es potente y muy silencioso.";positivo
+"Un fiasco. Las fotos no tienen nada que ver.";negativo
+"Recibí el correo de confirmación de la compra.";neutral
+"Diez puntos. No le encontré ninguna falla por ahora.";positivo
+"Un dolor de cabeza. El soporte técnico no responde.";negativo
+"El color es un poco más oscuro en persona.";neutral
+"Producto de altísima calidad. Se nota en los detalles.";positivo
+"No sirve para nada. Terminé tirándolo a la basura.";negativo
+"La garantía del producto es de doce meses.";neutral
+"Estoy muy conforme con el resultado. Lo recomiendo.";positivo
+"Pésima señal. Se corta la comunicación a cada rato.";negativo
+"El menú del día era una opción económica.";neutral
+"¡Espectacular! Mucho mejor de lo que esperaba.";positivo
+"Un engaño. El descuento promocionado no era real.";negativo
+"La reunión fue informativa y duró el tiempo previsto.";neutral
+"Realmente bueno. Cumple y supera todas las expectativas.";positivo
+"Una experiencia horrible. El lugar estaba muy sucio.";negativo
+"Es un producto promedio del mercado. Funciona y listo.";neutral
+"Excelente. Volveré a comprar aquí sin ninguna duda.";positivo
+"No lo vale. Hay opciones mejores y más baratas.";negativo
+"La versión gratuita de la app tiene publicidad.";neutral
+"Increíblemente bueno. Una compra de la que no me arrepiento.";positivo
+"Un desastre de organización. No lo recomiendo para nada.";negativo
+"Este producto es increíble.";positivo
+"esto es genial, la verdad que me sorprendió.";positivo
+"q producto de mierda, no sirve para nada.";negativo
+"el servicio es normal, como cualquier otro.";neutral
+"este aparato anda hermoso, es súper silencioso.";positivo
+"la comida estuvo increible, muy sabrosa.";positivo
+"una poronga este servicio, re lento.";negativo
+"esto es malisimo, no lo compren por nada.";negativo
+"la entrega fue correcta, sin problemas.";neutral
+"este celu es una masa, la bateria dura bocha.";positivo
+"que bueno q esta esto, me soluciono la vida.";positivo
+"la calidad es bastante mala, se nota muy frágil.";negativo
+"el producto es aceptable por el precio que tiene.";neutral
+"anda espectacular, súper fluido y rápido.";positivo
+"esto es una maravilla, lo recomiendo totalmente.";positivo
+"la atencion fue horrible, no vuelvo mas.";negativo
+"esta remera es hermosa, el color es un 10.";positivo
+"el producto es malisimo, se rompio al toque.";negativo
+"es un aparato normal, cumple su funcion.";neutral
+"esto es exelente, de lo mejor que probé.";positivo
+"la app anda para el culo, se cuelga siempre.";negativo
+"este coso es genial, muy practico y util.";positivo
+"q buena compra, estoy re contento.";positivo
+"la peli estuvo ok, para pasar el rato.";neutral
+"el material es una cagada, parece de plastico.";negativo
+"esto anda de diez, no le encontre ninguna falla.";positivo
+"la comida es rikisima, el mejor lugar.";positivo
+"este servicio es nefasto, no lo contraten.";negativo
+"la mochila es linda, como se ve en la foto.";neutral
+"el juego está espectacular, unos gráficos tremendos.";positivo
+"es una basura, me arrepiento de haberlo comprado.";negativo
+"anda bien, es lo q esperaba.";neutral
+"esto es increible, la calidad es superior.";positivo
+"el soporte tecnico es horrible, no contestan.";negativo
+"este parlante es un caño, suena fuertisimo.";positivo
+"la camisa es hermosa, me quedo pintada.";positivo
+"que poronga, me vino fallado de fabrica.";negativo
+"es un servicio estandar, nada del otro mundo.";neutral
+"el teclado anda joya, es re comodo.";positivo
+"la comida es un asco, estaba todo frio.";negativo
+"esto es simplemente perfecto, lo amo.";positivo
+"la señal es malisima, se corta a cada rato.";negativo
+"el auto anda bien, no gasta nada.";positivo
+"esta zapatilla es hermosa, super comodas.";positivo
+"el hotel es normalito, para dormir y nada más.";neutral
+"q garcha este producto, no duro ni un dia.";negativo
+"la compu es rapidisima, anda que vuela.";positivo
+"el cafe es horrible, parece agua sucia.";negativo
+"esto es genial, me encanto el diseño.";positivo
+"el envio fue un desastre, tardaron mil años.";negativo
+"anda como piña, una compra exelente.";positivo
+"es un producto bueno, lo recomiendo.";positivo
+"el lugar es normal, ni fu ni fa.";neutral
+"la pantalla se ve horrible, muy malos colores.";negativo
+"la atencion fue genial, súper amables.";positivo
+"este producto es una estafa, no lo compren.";negativo
+"anda bien, sin problemas hasta ahora.";neutral
+"la silla es hermosa, muy comoda la verdad.";positivo
+"el internet es pesimo, una lentitud increíble.";negativo
+"esto es una bomba, no puede ser tan bueno.";positivo
+"la bateria es una mierda, no dura nada.";negativo
+"el helado es riquisimo, de los mejores.";positivo
+"la atencion es normal, podria mejorar.";neutral
+"la camara es exelente, saca unas fotos barbaras.";positivo
+"el colchon es durisimo, una piedra.";negativo
+"este producto es una joyita, no se van a arrepentir.";positivo
+"el sonido es malisimo, se escucha todo latoso.";negativo
+"el programa es fasil de usar, muy intuitivo.";positivo
+"la birra estaba caliente, un asco.";negativo
+"esto anda de maravilla, fue una gran compra.";positivo
+"el celular es malisimo, se tilda con nada.";negativo
+"la maquina es sensacional, funciona perfecto.";positivo
+"el lugar es horrible, todo sucio y descuidado.";negativo
+"la serie esta buena, es entretenida.";neutral
+"esto es fantastico, lo uso todos los dias.";positivo
+"el reloj es una poronga, se atrasa siempre.";negativo
+"la pileta es hermosa, ideal para el verano.";positivo
+"el lavarropas es ruidoso, pero lava bien.";neutral
+"el monitor es increible, se ve espectacular.";positivo
+"el delivery fue una cagada, trajo todo mal.";negativo
+"el mouse anda perfecto, muy preciso.";positivo
+"el pan estaba duro, del dia anterior seguro.";negativo
+"esto es una locura, no puede ser tan bueno.";positivo
+"la impresora es una garcha, se traba el papel.";negativo
+"el libro esta bueno, la historia atrapa.";positivo
+"la mochila es de mala calidad, se descosio toda.";negativo
+"el procesador es rapidisimo, un caño.";positivo
+"el ascensor es horrible, te da miedo subirte.";negativo
+"la aspiradora anda genial, chupa todo.";positivo
+"el aire acondicionado es una poronga, no enfria nada.";negativo
+"las luces son hermosas, decoran un montón.";positivo
+"la yerba es malisima, puro polvo.";negativo
+"el microondas calienta de 10, es rapidísimo.";positivo
+"la canilla pierde, una cagada.";negativo
+"la mesita de luz es hermosa, re delicada.";positivo
+"la hamburguesa estaba seca, un desastre.";negativo
+"el short es genial, re comodo para entrenar.";positivo
